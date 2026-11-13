@@ -20,20 +20,20 @@
     {
       "platform": "android",
       "bundleID": "dev.bluetoothswitch.relay",
-      "build": 26,
+      "build": 27,
       "version": "1.1.0",
       "minimumSDK": 29,
       "signerSHA256": "4cca6f24f4d263e996efcf9bcead3f96bb7c62cf06d64fac2af3db25ff7e87d4",
-      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.14"
+      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.15"
     },
     {
       "platform": "android",
       "bundleID": "dev.bluetoothswitch.relay.preview",
-      "build": 26,
+      "build": 27,
       "version": "1.1.0",
       "minimumSDK": 29,
       "signerSHA256": "cdf9829325b6a1f06fc14b2fbace7486ddeab2d20914f3e3b00c9b43e414489f",
-      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.14"
+      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.15"
     },
     {
       "platform": "linux",
