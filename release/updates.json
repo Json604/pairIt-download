@@ -24,7 +24,8 @@
       "version": "1.1.0",
       "minimumSDK": 29,
       "signerSHA256": "4cca6f24f4d263e996efcf9bcead3f96bb7c62cf06d64fac2af3db25ff7e87d4",
-      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.20"
+      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.20",
+      "minimumOS": ""
     },
     {
       "platform": "android",
@@ -33,7 +34,8 @@
       "version": "1.1.0",
       "minimumSDK": 29,
       "signerSHA256": "deb49245315ff80e3b006650e11e9d047c28a19e11f5e1c6ad2c1fc75a598ce8",
-      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.20"
+      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.20",
+      "minimumOS": ""
     },
     {
       "platform": "linux",
@@ -45,7 +47,8 @@
         "arm64"
       ],
       "requirements": "Ubuntu 24.04 / Debian 12 or newer; X11/XWayland; PipeWire/PulseAudio",
-      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.20"
+      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.20",
+      "minimumOS": ""
     }
   ]
 }
