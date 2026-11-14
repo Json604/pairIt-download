@@ -7,7 +7,7 @@
       "build": 19,
       "version": "1.1.0",
       "minimumOS": "14.2",
-      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.18"
+      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.19"
     },
     {
       "platform": "windows",
@@ -15,7 +15,7 @@
       "build": 17,
       "version": "1.1.0-preview.17",
       "minimumOS": "10.0.19041",
-      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.18"
+      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.19"
     },
     {
       "platform": "android",
@@ -24,7 +24,7 @@
       "version": "1.1.0",
       "minimumSDK": 29,
       "signerSHA256": "4cca6f24f4d263e996efcf9bcead3f96bb7c62cf06d64fac2af3db25ff7e87d4",
-      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.18"
+      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.19"
     },
     {
       "platform": "android",
@@ -33,19 +33,19 @@
       "version": "1.1.0",
       "minimumSDK": 29,
       "signerSHA256": "deb49245315ff80e3b006650e11e9d047c28a19e11f5e1c6ad2c1fc75a598ce8",
-      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.18"
+      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.19"
     },
     {
       "platform": "linux",
       "bundleID": "dev.bluetoothswitch.linuxrelay",
-      "build": 17,
-      "version": "1.1.0-preview.17",
+      "build": 19,
+      "version": "1.1.0-preview.19",
       "architectures": [
         "x64",
         "arm64"
       ],
       "requirements": "Ubuntu 24.04 / Debian 12 or newer; X11/XWayland; PipeWire/PulseAudio",
-      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.18"
+      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.19"
     }
   ]
 }
