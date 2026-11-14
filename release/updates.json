@@ -4,48 +4,48 @@
     {
       "platform": "mac",
       "bundleID": "dev.bluetoothswitch.macrelay",
-      "build": 17,
+      "build": 18,
       "version": "1.1.0",
       "minimumOS": "14.2",
-      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.14"
+      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.16"
     },
     {
       "platform": "windows",
       "bundleID": "dev.bluetoothswitch.windowsrelay",
-      "build": 13,
-      "version": "1.1.0-preview.13",
+      "build": 16,
+      "version": "1.1.0-preview.16",
       "minimumOS": "10.0.19041",
-      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.14"
+      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.16"
     },
     {
       "platform": "android",
       "bundleID": "dev.bluetoothswitch.relay",
-      "build": 27,
+      "build": 30,
       "version": "1.1.0",
       "minimumSDK": 29,
       "signerSHA256": "4cca6f24f4d263e996efcf9bcead3f96bb7c62cf06d64fac2af3db25ff7e87d4",
-      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.15"
+      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.16"
     },
     {
       "platform": "android",
       "bundleID": "dev.bluetoothswitch.relay.preview",
-      "build": 27,
+      "build": 30,
       "version": "1.1.0",
       "minimumSDK": 29,
       "signerSHA256": "cdf9829325b6a1f06fc14b2fbace7486ddeab2d20914f3e3b00c9b43e414489f",
-      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.15"
+      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.16"
     },
     {
       "platform": "linux",
       "bundleID": "dev.bluetoothswitch.linuxrelay",
-      "build": 13,
-      "version": "1.1.0-preview.13",
+      "build": 16,
+      "version": "1.1.0-preview.16",
       "architectures": [
         "x64",
         "arm64"
       ],
       "requirements": "Ubuntu 24.04 / Debian 12 or newer; X11/XWayland; PipeWire/PulseAudio",
-      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.14"
+      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.16"
     }
   ]
 }
