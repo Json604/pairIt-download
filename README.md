@@ -1,6 +1,6 @@
 # PairIt - AudioRelay
 
-Play computer audio through the headphones connected to your phone.
+Play computer audio through your phone’s speakers or connected headphones.
 
 [Website](https://pairit.kartikey.xyz) · [Downloads](https://pairit.kartikey.xyz/downloads.html) · [Releases](https://github.com/Json604/pairIt-download/releases)
 
@@ -10,7 +10,7 @@ This repository contains official downloads, checksums, release notes, and the p
 
 - **Mac:** open the DMG and drag PairIt to Applications. The app is Developer ID signed and notarized. A ZIP is also available.
 - **Windows:** extract the complete ZIP, then run PairIt.exe. Keep the included files together.
-- **Linux:** extract the archive for your architecture and run PairIt. See the included installer and license notices.
+- **Linux:** on Ubuntu/Debian, open the `.deb` for your architecture with the system package installer, then launch PairIt from the application menu. Portable archives remain available for other compatible distributions; see START-HERE.txt.
 - **Android:** use your eligible Google Play testing track or the appropriate APK. The separate Preview app uses test ads. Google Play builds and direct APKs can have different signing identities; do not uninstall to bypass a signature mismatch.
 - **iPhone:** availability is listed on the website; GitHub releases do not install or update an iPhone app.
 
