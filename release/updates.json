@@ -40,14 +40,14 @@
     {
       "platform": "linux",
       "bundleID": "dev.bluetoothswitch.linuxrelay",
-      "build": 26,
-      "version": "1.1.0-preview.26",
+      "build": 27,
+      "version": "1.1.0-preview.27",
       "architectures": [
         "x64",
         "arm64"
       ],
       "requirements": "Ubuntu 24.04 / Debian 12 or newer; X11/XWayland; PipeWire/PulseAudio",
-      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.26",
+      "url": "https://github.com/Json604/pairIt-download/releases/tag/v1.1.0-preview.27",
       "minimumOS": ""
     }
   ]
