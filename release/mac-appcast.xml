@@ -3,12 +3,12 @@
   <channel>
     <title>PairIt updates</title>
     <item>
-      <title>PairIt 1.1.0 (build 29)</title>
-      <pubDate>Thu, 19 Nov 2026 08:23:18 +0000</pubDate>
-      <sparkle:version>29</sparkle:version>
+      <title>PairIt 1.1.0 (build 30)</title>
+      <pubDate>Tue, 24 Nov 2026 20:32:35 +0000</pubDate>
+      <sparkle:version>30</sparkle:version>
       <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/Json604/pairIt-download/releases/download/v1.1.0-preview.29/PairIt-Mac-1.1.0-build-29.zip" length="3574655" type="application/octet-stream" sparkle:edSignature="6PZHSLQ2vggsbwt4rdvf9wmLSecEYiMkmFi63CbmlJByuPgkOWJAh13X98Pjol++Y0e8M+Ca481j8ooVsRFgDA==" />
+      <enclosure url="https://github.com/Json604/pairIt-download/releases/download/v1.1.0-preview.30/PairIt-Mac-1.1.0-build-30.zip" length="3615825" type="application/octet-stream" sparkle:edSignature="0bUn1ygy1JYOPuQtpa6njM/tnMEAc28Ph4ckh7xscsj5/BgjEsWGcicJ5MlLB+5ufngtBbYtPaSdQS3QasIlCQ==" />
     </item>
   </channel>
 </rss>
